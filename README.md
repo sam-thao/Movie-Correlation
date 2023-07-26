@@ -1,3 +1,4 @@
 # Movie-Correlation
 
-This data analysis project uses Python and the Pandas library to study a movie industry dataset from Kaggle. The main goal is to find correlations in the data, which will give us insights into box office performance, genre trends, and audience preferences. By using Pandas' data manipulation tools, we hope to discover useful patterns that can assist movie industry professionals in making informed decisions.
+
+In this data analysis project, we use Python and the Pandas library to investigate a movie industry dataset obtained from Kaggle. The main goal is to discover correlations among movie budgets, gross income, and user votes on IMDb, shedding light on intriguing connections within the data. By delving into these relationships, we gain valuable insights into aspects like box office performance, genre trends, and audience preferences within the movie industry.
